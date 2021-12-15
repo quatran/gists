@@ -2,6 +2,10 @@
 
 This repository serves as a table of content of my [GitHub Gists](https://gist.github.com/quatran)
 
+## Chocolatey package list
+
+* [Chocolatey Package List](https://gist.github.com/quatran/95a95c774a14d74b01d0e307db5b467e)
+
 ## Visual Code user settings
 
 .json snippets for Visual Code user settings. Put them in 'settings.json'.
